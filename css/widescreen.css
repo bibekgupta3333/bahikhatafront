@@ -1,0 +1,20 @@
+/* Align icon to left */
+#what .items .item {
+    display: flex;
+    text-align: left;
+}
+
+/* Position icon */
+#what .items .item i {
+    margin-right: 1.3rem;
+    align-self: center;
+    margin-bottom: 0;s
+}
+
+#contact .map {
+    float: 2;
+}
+
+#showcase .showcase-content {
+    top: 65px;
+}
